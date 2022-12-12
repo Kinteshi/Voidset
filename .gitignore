@@ -1,0 +1,9 @@
+# .gitignore
+
+# python
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# project specific
